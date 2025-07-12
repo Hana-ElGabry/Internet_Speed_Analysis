@@ -1,5 +1,4 @@
 # Internet_Speed_Analysis
-Here's a **well-structured README** for your **Data Analysis Project on Traffic Impact on Internet Performance in Istanbul**:  
 
 ---
 
